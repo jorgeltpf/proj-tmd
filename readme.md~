@@ -1,8 +1,10 @@
-#Task Project
-# Baseado em SB Admin v2.0 rewritten in Laravel
+# SB Admin v2.0 rewritten in Laravel
 
+This project is a part of the famous Free Admin Bootstrap Theme SB Admin v2.0 to Laravel Theme.
 
-## Instalação
+Find out more [Free Laravel Themes at StartLaravel.com](http://www.startlaravel.com/)..
+
+## Installation
 
 1. Clone this project or Download that ZIP file
 2. Make sure you have bower, gulp and npm installed globally

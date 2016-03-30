@@ -1,6 +1,8 @@
 #Task Project
 # Baseado em SB Admin v2.0 rewritten in Laravel
 
+####Master branch build status: 
+![](https://travis-ci.org/jorgeltpf/proj-tmd.svg?branch=master)
 
 ## Instalação
 

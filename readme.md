@@ -3,6 +3,7 @@
 
 ####Master branch build status: 
 ![](https://travis-ci.org/jorgeltpf/proj-tmd.svg?branch=master)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/32ac448a-a970-4774-b447-2bb99204f80e/mini.png)](https://insight.sensiolabs.com/projects/32ac448a-a970-4774-b447-2bb99204f80e)
 
 ## Instalação
 

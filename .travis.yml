@@ -28,10 +28,6 @@ install:
   - if [[ $setup = 'stable' ]]; then travis_retry composer update --prefer-dist --no-interaction --prefer-stable; fi
   - if [[ $setup = 'lowest' ]]; then travis_retry composer update --prefer-dist --no-interaction --prefer-lowest --prefer-stable; fi
 
-before_script:
- - wget http://getcomposer.org/composer.phar
- - php composer.phar install --dev --no-interaction
-
 script:
   - vendor/bin/phpunit
   - phpunit --coverage-clover=coverage.clover

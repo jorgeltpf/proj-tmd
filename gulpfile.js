@@ -29,6 +29,7 @@ elixir(function(mix) {
         'resources/js/sb-admin-2.js',
         'resources/js/frontend.js'
     ], 'public/assets/scripts/frontend.js', './');
+    mix.phpUnit();
 });
 
 

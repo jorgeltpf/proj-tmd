@@ -14,6 +14,7 @@
 3. On the command prompt run the following commands
 - cd `project-directory`
 - Set permission 777 for storage
+- composer require phpseclib/mcrypt_compat
 - `composer install`
 - `npm install`
 - `bower install`
